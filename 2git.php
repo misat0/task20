@@ -6,8 +6,9 @@ $name = $_GET['name'];
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<title></title>
+<title>名前の表示</title>
 </head>
 <body>
+<?php echo $name; ?>
 </body>
 </html>
