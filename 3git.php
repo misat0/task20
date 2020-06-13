@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<title>登録フォーム</title>
+<title>入力フォーム</title>
 </head>
 <body>
 <form method="get" action="2git.php">
